@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_bar_title">Open Library</string>
+
+    <!--books feature-->
+    <string name="unknown_author">Unknown author</string>
+    <string name="no_cover">No cover</string>
+    <string name="first_published_in">First published in %1$d</string>
+    <string name="subjects">Subjects: %1$s</string>
+    <string name="no_description_available">No description available.</string>
+    <string name="no_books_found">No books found</string>
+
+    <!--errors-->
+    <string name="error_title">Something went wrong</string>
+    <string name="error_unable_to_load_books">Unable to load books</string>
+    <string name="error_failed_to_load_books">Failed to load books</string>
 </resources>
 
