@@ -38,3 +38,6 @@ Simple Android application built as part of a senior Android take-home. The app 
 - Surface retry CTA for error states and distinguish network vs. parsing failures.
 - Add accessibility polish (content descriptions, dynamic font scaling previews).
 
+### Demo
+![Adobe Express - QuilterTest](https://github.com/user-attachments/assets/18c082d4-c32f-41a1-9afd-cfac44428a95)
+
